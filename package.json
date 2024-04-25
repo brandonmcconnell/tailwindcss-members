@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-members",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Grouped utility support for Tailwind CSS",
   "type": "module",
   "source": "index.ts",
